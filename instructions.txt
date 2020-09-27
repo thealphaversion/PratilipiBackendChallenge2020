@@ -1,0 +1,13 @@
+This project was built on node v12.18.3
+
+Step 1: Extract Zip
+
+Step 2: Make sure you have node installed.
+
+Step 3: in the root of the project directory, run:
+        npm install
+        this will install all the modules required
+
+Step 4: Run server with node index.js
+
+Step 5: Make http requests to the api.

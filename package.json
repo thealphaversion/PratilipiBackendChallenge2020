@@ -1,0 +1,14 @@
+{
+  "name": "pratilipitest",
+  "version": "1.0.0",
+  "description": "Connect 4 game backend api for pratilipi test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aditya Chakraborti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
